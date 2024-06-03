@@ -3,8 +3,7 @@ International Standard Content Code (ISCC) for PRC
 python-irodsclient-iscc is a plugin for the
 [Python iRODS Client - PRC](https://github.com/irods/python-irodsclient).
 This plugin adds basic ISCC ([ISO 24138](https://www.iso.org/standard/77899.html))
-support for iRODS data objects through the [ISCC Core Python Library]
-(https://github.com/iscc/iscc-core).
+support for iRODS data objects through the [ISCC Core Python Library](https://github.com/iscc/iscc-core).
 
 python-irodsclient-iscc adds ISCC codes and algorithms to
 an iRODS data object by instantiating a 
